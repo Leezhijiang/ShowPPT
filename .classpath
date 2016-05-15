@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="lib/poi-examples-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="lib/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.poi.xwpf.converter.core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.poi.xwpf.converter.xhtml-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/ooxml-schemas-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

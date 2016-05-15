@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ShowPPT"
+  id="myeclipse.1456304374568"
+  context-root="/ShowPPT"
+  j2ee-spec="5.0"
+  archive="ShowPPT.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
